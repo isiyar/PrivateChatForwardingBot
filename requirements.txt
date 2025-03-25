@@ -1,0 +1,5 @@
+pyaes
+pyasn1
+python-dotenv
+rsa
+Telethon
